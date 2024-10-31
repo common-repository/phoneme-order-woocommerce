@@ -1,0 +1,105 @@
+.phoneme-order-woocommerce {
+  margin: 2%;
+  overflow: hidden;
+  background: #ffe2c4;
+  color: #832217;
+}
+
+.phoneme-order-woocommerce-disabled {
+  -webkit-filter: grayscale(100%);
+  -moz-filter:    grayscale(100%);
+  -ms-filter:     grayscale(100%);
+  -o-filter:      grayscale(100%);
+  filter: gray;
+  pointer-events: none;
+}
+
+.phoneme-order-woocommerce .phoneme-order-woocommerce-header {
+  font-variant: small-caps;
+  padding: 2%;
+  color: #fff;
+  background: #ff6926;
+}
+
+.phoneme-order-woocommerce .phoneme-order-woocommerce-header .first {
+  font-size: 1.6em;
+  display: inline-block;
+  text-transform: uppercase;
+}
+
+.phoneme-order-woocommerce .phoneme-order-woocommerce-header .secondary {
+  display: inline-block;
+}
+
+.phoneme-order-woocommerce label {
+  display: none;
+}
+
+.phoneme-order-woocommerce .hint-text {
+  padding: .6em;
+  font-style: oblique;
+}
+
+.phoneme-order-woocommerce .status-message {
+  margin: 2%;
+  text-align: center;
+  font-size: 1.2em;
+  font-style: oblique;
+}
+
+.phoneme-order-woocommerce .form-elements {
+  margin: 2%;
+  border: 1px solid #ff6926;
+  overflow: hidden;
+  background: #fff;
+  position: relative;
+}
+
+.phoneme-order-woocommerce .form-elements:before {
+  content: '';
+  float: left;
+  margin: .2em 0 0 .2em;
+  width: 2.4em;
+  height: 2.4em;
+  display: inline-block;
+  background-color: transparent;
+  background-image: url('data:image/svg+xml;utf8,<svg height="1000" width="1000" xmlns="http://www.w3.org/2000/svg"><path fill="#aaa" d="M0 500q0 -207 146 -353t353 -146 353 146 146 353 -146 353 -353 146 -353 -146 -146 -353zm199 -162q-4 51 41 143 70 133 229 248 107 70 193 72 29 0 47 -16l84 -86q10 -10 8 -23t-16 -23l-123 -72q-20 -12 -45 6l-35 37q-6 6 -18 2 -12 -2 -24 -8t-25 -16 -21 -17 -21 -21 -20 -18q-64 -61 -80 -119 0 -4 4 -10l31 -31q18 -18 8 -43l-68 -129q-12 -18 -27 -16 -10 0 -20 8l-84 86q-18 16 -18 45z"/></svg>');
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  z-index: 0;
+}
+
+.phoneme-order-woocommerce input,
+.phoneme-order-woocommerce button {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  width: 60%;
+  height: 2.8em;
+  line-height: 1em;
+  font-size: 1em;
+  vertical-align: middle;
+}
+.phoneme-order-woocommerce button:hover,
+.phoneme-order-woocommerce button:focus,
+.phoneme-order-woocommerce input:hover,
+.phoneme-order-woocommerce input:focus {
+  border: 0;
+}
+.phoneme-order-woocommerce button:hover,
+.phoneme-order-woocommerce button:focus {
+  background-color: #ff481f;
+}
+.phoneme-order-woocommerce input {
+  background: #fff;
+  text-indent: 3em;
+}
+.phoneme-order-woocommerce button {
+  width: 40%;
+  background: #ff6926;
+  color: #fff;
+  float: right;
+}

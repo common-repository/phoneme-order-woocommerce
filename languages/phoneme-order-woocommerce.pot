@@ -1,0 +1,118 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PhoneMe Order for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Sep 11 2015 22:19:27 GMT+0300 (EEST)\n"
+"POT-Revision-Date: Fri Sep 11 2015 22:19:31 GMT+0300 (EEST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../../plugins/phoneme-order-woocommerce\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "PhoneMe Order for WooCommerce"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wordpress.org/plugins/phoneme-order-woocommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "Fast order creation with just a phone"
+msgstr ""
+
+#. Author of the plugin
+msgid "Adrian Dimitrov <dimitrov.adrian@gmail.com>"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://e01.scifi.bg"
+msgstr ""
+
+#: ../../plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:66
+msgid "Quick checkout"
+msgstr ""
+
+#: ../../plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:67 ../..
+#: /plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:167
+msgid "No registrations and passwords"
+msgstr ""
+
+#: ../../plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:68 ../..
+#: /plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:170
+msgid ""
+"Just use your phone number to checkout and wait our assistant to contact "
+"your do clarify the order."
+msgstr ""
+
+#: ../../plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:92
+msgid "Phone Me Order"
+msgstr ""
+
+#: ../../plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:98
+msgid "Heading"
+msgstr ""
+
+#: ../../plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:105
+msgid "Second heading"
+msgstr ""
+
+#: ../../plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:112
+msgid "Hint text"
+msgstr ""
+
+#: ../../plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:120
+msgid "Out of stock"
+msgstr ""
+
+#: ../../plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:125
+msgid "Hide"
+msgstr ""
+
+#: ../../plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:126
+msgid "Inactive"
+msgstr ""
+
+#: ../../plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:175 ../..
+#: /plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:179
+msgid "Phone"
+msgstr ""
+
+#: ../../plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:182
+msgid "Order"
+msgstr ""
+
+#: ../../plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:212
+msgid "Invalid phone number"
+msgstr ""
+
+#: ../../plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:224
+msgid "Invalid product or variant"
+msgstr ""
+
+#: ../../plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:233
+msgid "Can't create order."
+msgstr ""
+
+#: ../../plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:236
+msgid "Incoming order via PhoneMe method"
+msgstr ""
+
+#: ../../plugins/phoneme-order-woocommerce/phoneme-order-woocommerce.php:250
+msgid "Your order is placed, thank for ordering."
+msgstr ""
